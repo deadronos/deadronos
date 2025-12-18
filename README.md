@@ -2,6 +2,9 @@
 
 Welcome to my corner of GitHub. I'm a hobby developer who loves automation-heavy games, crunchy puzzles, and pulsing psytrance soundtracks. I tinker a lot, ship often, and learn along the way.
 
+## Experimental Showcase of my Repositories
+https://deadronosrepohub.vercel.app/
+
 ## 🌌 Featured projects
 - **[SpaceAutoBattler](https://github.com/deadronos/SpaceAutoBattler):** A cosmic auto-battler experiment where you draft, merge, and optimize ship loadouts to push deeper into the void.
 - **[mining-drones-idle](https://github.com/deadronos/mining-drones-idle):** An idle/automation prototype about directing swarms of drones, tuning production chains, and squeezing every last resource.
