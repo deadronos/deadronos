@@ -1,23 +1,24 @@
-# 🚀 Hey, I'm deadronos — let's build something rad!
+# 🚀 Hey, I'm deadronos!
 
-Welcome to my corner of GitHub. I'm a hobby developer who loves automation-heavy games, crunchy puzzles, and pulsing psytrance soundtracks. I tinker a lot, ship often, and learn along the way.
+Welcome to my corner of GitHub. I'm a hobby developer who loves automation-heavy games, idle/incremental games, and pulsing psytrance soundtracks. I tinker a lot, ship often, and learn along the way.
 
 ## Experimental Showcase of my Repositories
 [**Explore the Project Hub**](https://deadronosrepohub.vercel.app/) — A curated collection of web experiments, games, and prototypes.
 
 ## 🌌 Featured projects
-- **[SpaceAutoBattler](https://github.com/deadronos/SpaceAutoBattler):** A cosmic auto-battler experiment where you draft, merge, and optimize ship loadouts to push deeper into the void.
+- **[SpaceAutoBattler](https://github.com/deadronos/SpaceAutoBattler):** A cosmic auto-battler experiment watching big fleets fight around a webgl space environment.
 - **[mining-drones-idle](https://github.com/deadronos/mining-drones-idle):** An idle/automation prototype about directing swarms of drones, tuning production chains, and squeezing every last resource.
 
 ## 🎯 What I'm focused on
-- Building small, replayable strategy prototypes with crunchy resource loops.
+- Building small, replayable strategy or idle prototypes with resource loops a.
 - Learning by doing: shipping iterations, refactoring, and polishing UX.
 - Keeping things moddable and data-driven whenever possible.
 
 ## 🧰 Tech & tools
-- C#, Unity, and game-friendly tooling.
-- Python for quick scripts and data wrangling.
-- Git, Godot experiments, and whatever helps automate the grind.
+- Typescript, React, React Three Fiber
+- Want to to learn Godot or Unity some time
+- I am leaning heavy into various AI tools, GitHub Copilot, Codex and Gemini
+- Mostly using VS Code, but trying out CLI and Antigravity also.
 
 ## 🎶 Vibe check
 If you love Factorio-style optimization or psytrance powering late-night builds, we already have something in common. Drop by the repos above, open an issue, or just say hi — always happy to chat about automation and game loops.
