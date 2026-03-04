@@ -17,7 +17,7 @@ Welcome to my corner of GitHub. I'm a hobby developer who loves automation-heavy
 ## 🧰 Tech & tools
 - TypeScript, React, React Three Fiber
 - Want to learn Godot or Unity some time
-- I am leaning heavy into various AI tools, GitHub Copilot, Codex and Gemini
+- I am leaning heavily into various AI tools, GitHub Copilot, Codex and Gemini
 - Mostly using VS Code, but trying out CLI and Antigravity also.
 
 ## 🎶 Vibe check
