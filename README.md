@@ -8,6 +8,7 @@ Welcome to my corner of GitHub. I'm a hobby developer who loves automation-heavy
 ## 🌌 Featured projects
 - **[SpaceAutoBattler](https://github.com/deadronos/SpaceAutoBattler):** A cosmic auto-battler experiment watching big fleets fight around a WebGL space environment.
 - **[Planet-Life-3D](https://github.com/deadronos/planet-life-3d):** A conway's game of life simulation projected onto a 3d planetary sphere.
+- **[Idle-Dungeon-Crawler](https://github.com/deadronos/idle-dungeon-crawler):** Idle RPG with Hero Management and Randomized Encounters
 
 ## 🎯 What I'm focused on
 - Building small, replayable strategy or idle prototypes with resource loops.
